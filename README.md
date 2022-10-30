@@ -66,11 +66,6 @@ Credits
   url = {https://github.com/AliaksandrSiarohin/first-order-model}
 }
 ```
-- Original Project
-    * [AliaksandrSiarohin](https://github.com/AliaksandrSiarohin/first-order-model)
-
-    If you like this project give your support to original author of this project by giving github star to author's project
-
 - video explanation to the project <br/>
     * [Video explanation by original author](https://www.youtube.com/watch?v=u-0cQ-grXBQ)
     * [Two min papers](https://www.youtube.com/watch?v=mUfJOQKdtAk)    
